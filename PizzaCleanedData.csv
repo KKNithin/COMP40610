@@ -1,396 +1,396 @@
-,name,address,city,country,latitude,longitude,price_range_max,review_stats_all_average_score,provider_rating
-0,Bruno Bros Pizza,8381 Market St,Youngstown,US,40.996343,-80.66232,25,6.25,3.5
-1,Bruno Bros Pizza,8381 Market St,Youngstown,US,40.996343,-80.66232,25,6.25,3.5
-2,Dona Bella Pizza,154 Church Steet,New York,US,40.71499,-74.00785,25,6.830769230769231,3.0
-3,Dona Bella Pizza,154 Church Steet,New York,US,40.71499,-74.00785,25,6.830769230769231,3.0
-4,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-5,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-6,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-7,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-8,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-9,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-10,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-11,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-12,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-13,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-14,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-15,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-16,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-17,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-18,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-19,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0
-20,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-21,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-22,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-23,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-24,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-25,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-26,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-27,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-28,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-29,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-30,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0
-31,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0
-32,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0
-33,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0
-34,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0
-35,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-36,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-37,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-38,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-39,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-40,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-41,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-42,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-43,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5
-44,Fellini's Pizza,909 Ponce De Leon Ave Ne,Atlanta,US,33.773654,-84.357596,25,7.2,4.0
-45,Mama's Pizza,305 Market St,Harrisburg,US,40.2609,-76.8805,25,8.25,4.5
-46,Mama's Pizza,305 Market St,Harrisburg,US,40.2609,-76.8805,25,8.25,4.5
-47,Mama's Pizza,15615 Pacific St,Omaha,US,41.2480352,-96.15838176,40,8.25,4.5
-48,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-49,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-50,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-51,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-52,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-53,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-54,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0
-55,Pizza Land,19 Park Pl,Avon,US,42.9112,-77.7458,25,7.35,3.5
-56,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-57,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-58,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-59,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-60,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-61,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-62,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-63,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-64,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-65,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0
-66,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-67,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-68,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-69,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-70,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-71,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-72,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-73,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-74,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-75,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-76,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-77,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-78,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-79,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0
-80,Napoli Pizza,934 E Passyunk Ave,Philadelphia,US,39.937084,-75.154864,25,6.433333333333334,2.5
-81,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5
-82,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5
-83,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5
-84,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5
-85,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5
-86,Proto's Pizza,345 S 8th St,Boise,US,43.6138,-116.2055,25,7.283333333333334,4.0
-87,Proto's Pizza,345 S 8th St,Boise,US,43.6138,-116.2055,25,7.283333333333334,4.0
-88,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-89,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-90,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-91,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-92,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-93,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0
-94,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5
-95,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5
-96,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5
-97,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5
-98,Rosa's Pizza,11025 Jones Bridge Rd,Alpharetta,US,34.0497,-84.2204,25,8.38888888888889,3.5
-99,Rosa's Pizza,11025 Jones Bridge Rd,Alpharetta,US,34.0497,-84.2204,25,8.38888888888889,3.5
-100,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5
-101,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5
-102,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5
-103,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5
-104,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5
-105,Sal's Pizzeria,161 N Main St,West Bend,US,43.42459003,-88.183097,25,7.32,3.5
-106,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0
-107,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0
-108,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0
-109,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0
-110,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0
-111,Sal's Pizzeria,3167 Bainbridge Ave,Bronx,US,40.87533,-73.879657,25,7.32,3.5
-112,Lou Malnati's Pizzeria,1120 N State St,Chicago,US,41.90263,-87.62868,40,7.7659090909090915,4.0
-113,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5
-114,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5
-115,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5
-116,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5
-117,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5
-118,Two Boots West Village,201 W 11th Street,New York,US,40.736529,-74.001229,25,6.6,3.5
-119,Ben's Pizzeria,123 Macdougal St,New York,US,40.730377,-74.00032,25,5.95,3.5
-120,Ben's Pizzeria,123 Macdougal St,New York,US,40.730377,-74.00032,25,5.95,3.5
-121,Village Pizza,65 8th Ave,New York,US,40.739292,-74.002769,25,7.5,4.0
-122,Buca di Beppo Italian Restaurant,4301 Alderwood Mall Blvd,Lynnwood,US,47.817693,-122.291033,40,4.1,3.5
-123,Grimaldi's,656 Avenue Of The Americas,New York,US,40.741064,-73.993944,40,8.421428571428573,3.5
-124,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-125,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-126,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-127,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-128,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-129,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-130,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-131,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0
-132,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-133,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-134,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-135,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-136,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-137,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-138,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5
-139,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-140,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-141,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-142,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-143,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-144,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-145,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-146,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-147,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-148,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0
-149,John's of Bleecker Street,278 Bleecker St,New York,US,40.731674,-74.003381,40,8.883098591549297,4.0
-150,John's of Bleecker Street,278 Bleecker St,New York,US,40.731674,-74.003381,40,8.883098591549297,4.0
-151,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0
-152,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0
-153,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0
-154,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-155,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-156,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-157,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-158,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-159,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-160,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0
-161,Mariella Pizza,965 Lexington Ave,New York,US,40.76915,-73.962822,25,6.883333333333333,3.5
-162,Mariella Pizza,965 Lexington Ave,New York,US,40.76915,-73.962822,25,6.883333333333333,3.5
-163,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-164,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-165,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-166,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-167,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-168,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-169,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-170,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-171,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-172,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-173,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-174,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-175,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-176,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-177,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-178,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-179,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-180,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-181,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-182,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-183,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-184,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-185,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-186,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-187,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-188,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-189,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-190,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-191,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-192,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-193,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-194,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-195,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-196,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5
-197,Chuck E. Cheese's,14637 Memorial Dr,Houston,US,29.770062,-95.607981,25,6.0,3.0
-198,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-199,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-200,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-201,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-202,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-203,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-204,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-205,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-206,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-207,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-208,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-209,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-210,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-211,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5
-212,Red's Savoy Pizza,1830 Webster St,Hudson,US,44.960196,-92.732063,25,6.9,4.0
-213,Red's Savoy Pizza,1830 Webster St,Hudson,US,44.960196,-92.732063,25,6.9,4.0
-214,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5
-215,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5
-216,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5
-217,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-218,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-219,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-220,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-221,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-222,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5
-223,Buca di Beppo Italian Restaurant,11200 Lakeline Mall Dr,Cedar Park,US,30.47077,-97.806219,40,4.1,3.5
-224,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5
-225,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5
-226,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5
-227,King's Pizza,5908 Edinger Ave,Huntington Beach,US,33.729939,-118.025043,25,5.84,4.0
-228,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5
-229,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5
-230,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5
-231,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5
-232,Giordano's,10410 W Cermak Rd,Westchester,US,41.848682,-87.882267,25,8.080597014925372,3.5
-233,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-234,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-235,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-236,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-237,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-238,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-239,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-240,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-241,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-242,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-243,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-244,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-245,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-246,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-247,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-248,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-249,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-250,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-251,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-252,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5
-253,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-254,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-255,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-256,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-257,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-258,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-259,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-260,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-261,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-262,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-263,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5
-264,Joe's Pizza,3009a Middletown Rd,Bronx,US,40.843982,-73.830015,25,7.855813953488372,3.5
-265,Scarr's Pizza,22 Orchard St,New York,US,40.715343,-73.99139,25,7.915789473684211,4.0
-266,Frank Pepe Pizzeria Napoletana,1955 Central Park Ave,Yonkers,US,40.96538,-73.838835,40,8.722164948453608,4.0
-267,Frank Pepe Pizzeria Napoletana,1955 Central Park Ave,Yonkers,US,40.96538,-73.838835,40,8.722164948453608,4.0
-268,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5
-269,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5
-270,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5
-271,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5
-272,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5
-273,Sal's Pizzeria,8507 Jamaica Ave,Woodhaven,US,40.692526,-73.859024,25,7.32,3.5
-274,Pomodoro Pizza,14 Rector St,New York,US,40.707994,-74.013647,25,5.6,3.5
-275,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-276,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-277,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-278,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-279,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-280,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-281,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-282,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-283,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-284,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-285,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-286,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-287,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-288,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-289,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-290,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0
-291,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-292,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-293,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-294,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-295,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-296,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-297,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0
-298,Village Pizza,9469 W Higgins Rd,Des Plaines,US,41.992199,-87.863034,25,7.5,4.0
-299,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-300,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-301,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-302,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-303,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-304,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-305,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-306,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-307,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-308,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-309,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-310,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-311,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-312,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-313,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-314,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-315,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5
-316,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-317,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-318,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-319,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-320,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-321,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-322,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-323,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-324,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-325,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-326,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-327,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0
-328,Mellow Mushroom,320 Town Center Ave,Suwanee,US,34.055667,-84.063046,40,6.9499999999999975,3.0
-329,Pizza Joint,2900 N Mesa St,El Paso,US,31.779075,-106.504225,25,6.4,3.0
-330,Village Pizza,19 E Market St,Rhinebeck,US,41.927147,-73.912003,25,7.5,4.0
-331,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-332,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-333,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-334,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-335,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-336,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-337,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5
-338,Steve's Pizza,12010 Biscayne Blvd,Miami,US,25.886964,-80.164475,25,3.7375,3.5
-339,Steve's Pizza,12010 Biscayne Blvd,Miami,US,25.886964,-80.164475,25,3.7375,3.5
-340,Rico's Pizza,92 W Market St,Corning,US,42.143876,-77.058249,25,3.1500000000000004,3.0
-341,Rico's Pizza,92 W Market St,Corning,US,42.143876,-77.058249,25,3.1500000000000004,3.0
-342,Rocco's Pizzeria,17098 Magnolia St,Fountain Valley,US,33.71446,-117.9718,25,7.2,4.0
-343,Rocco's Pizzeria,17098 Magnolia St,Fountain Valley,US,33.71446,-117.9718,25,7.2,4.0
-344,Giordano's,1388 US Rt 12,Fox Lake,US,42.36450043,-88.17008329,25,8.080597014925372,3.5
-345,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-346,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-347,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-348,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-349,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-350,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0
-351,Louie's Pizza,333 N Tejon St,Colorado Springs,US,38.83927,-104.82276,25,8.225,4.5
-352,Louie's Pizza,333 N Tejon St,Colorado Springs,US,38.83927,-104.82276,25,8.225,4.5
-353,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5
-354,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5
-355,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5
-356,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5
-357,Patsy's Pizzeria,206 E 60th St,New York,US,40.761856,-73.965675,40,8.44864864864865,4.0
-358,Brick Oven Pizza 33,268 W 23rd St,New York,US,40.74525473,-73.99818524,25,7.736363636363636,3.0
-359,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5
-360,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5
-361,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5
-362,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5
-363,Tony's Pizza,1605 Galleria Blvd,Charlotte,US,35.135172,-80.736568,25,7.628571428571429,3.5
-364,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-365,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-366,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-367,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-368,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-369,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0
-370,Carmine's Pizzeria,2006 San Jacinto St,Dallas,US,32.786255,-96.79813,25,7.658333333333334,4.0
-371,Carmine's Pizzeria,2006 San Jacinto St,Dallas,US,32.786255,-96.79813,25,7.658333333333334,4.0
-372,Mama's Pizza,5950 N Point Pkwy,Alpharetta,US,34.0495304,-84.28324699,40,8.25,4.5
-373,Pequod's Pizzeria,8520 Fernald Ave,Morton Grove,US,42.03621622,-87.782626,40,7.995522388059702,4.0
-374,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0
-375,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0
-376,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0
-377,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5
-378,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5
-379,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5
-380,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5
-381,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5
-382,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-383,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-384,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-385,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-386,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-387,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5
-388,King's Pizza,110 W 145th St,New York,US,40.82048,-73.93656,25,5.84,4.0
-389,King's Pizza,110 W 145th St,New York,US,40.82048,-73.93656,25,5.84,4.0
-390,Buca di Beppo Italian Restaurant,16091 N Arrowhead Fountains Ctr Dr,Peoria,US,33.632437,-112.236786,55,4.1,3.5
-391,Joey Pepperoni's Pizza,493 2nd Ave,New York,US,40.74099,-73.97904,25,5.4,4.0
-392,Giordano's,700 E Grand Ave,Chicago,US,41.89175,-87.60965,25,8.080597014925372,3.5
-393,Giordano's,700 E Grand Ave,Chicago,US,41.89175,-87.60965,25,8.080597014925372,3.5
-394,La Mia Pizza,1488 1st Ave,New York,US,40.77126,-73.953125,25,7.07,3.0
+,name,address,city,country,latitude,longitude,price_range_max,review_stats_all_average_score,provider_rating,price_level
+0,Bruno Bros Pizza,8381 Market St,Youngstown,US,40.996343,-80.66232,25,6.25,3.5,1
+1,Bruno Bros Pizza,8381 Market St,Youngstown,US,40.996343,-80.66232,25,6.25,3.5,1
+2,Dona Bella Pizza,154 Church Steet,New York,US,40.71499,-74.00785,25,6.830769230769231,3.0,1
+3,Dona Bella Pizza,154 Church Steet,New York,US,40.71499,-74.00785,25,6.830769230769231,3.0,1
+4,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+5,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+6,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+7,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+8,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+9,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+10,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+11,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+12,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+13,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+14,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+15,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+16,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+17,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+18,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+19,Famous Amadeus Pizza,616 Amsterdam Ave,New York,US,40.79013,-73.973197,25,6.042857142857144,3.0,1
+20,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+21,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+22,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+23,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+24,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+25,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+26,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+27,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+28,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+29,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+30,Pizza Da Solo,550 Madison Ave,New York,US,40.761467,-73.973505,40,7.8,3.0,2
+31,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0,2
+32,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0,2
+33,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0,2
+34,Posto,310 2nd Ave,New York,US,40.734737,-73.983049,40,6.9,4.0,2
+35,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+36,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+37,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+38,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+39,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+40,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+41,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+42,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+43,Stromboli Pizza,83 Saint Marks Pl,New York,US,40.727691,-73.985305,25,7.57,3.5,1
+44,Fellini's Pizza,909 Ponce De Leon Ave Ne,Atlanta,US,33.773654,-84.357596,25,7.2,4.0,1
+45,Mama's Pizza,305 Market St,Harrisburg,US,40.2609,-76.8805,25,8.25,4.5,1
+46,Mama's Pizza,305 Market St,Harrisburg,US,40.2609,-76.8805,25,8.25,4.5,1
+47,Mama's Pizza,15615 Pacific St,Omaha,US,41.2480352,-96.15838176,40,8.25,4.5,1
+48,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+49,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+50,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+51,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+52,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+53,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+54,Picasso Pizza,7150 Hamilton Blvd,Trexlertown,US,40.549,-75.5979,25,4.74,3.0,1
+55,Pizza Land,19 Park Pl,Avon,US,42.9112,-77.7458,25,7.35,3.5,1
+56,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+57,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+58,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+59,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+60,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+61,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+62,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+63,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+64,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+65,Pizza Rock,2300 Paseo Verde Pkwy,Henderson,US,36.019961,-115.089392,25,7.1083333333333325,4.0,2
+66,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+67,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+68,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+69,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+70,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+71,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+72,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+73,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+74,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+75,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+76,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+77,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+78,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+79,Little Italy Pizza,2 E 33rd St,New York,US,40.747689,-73.984883,25,5.807692307692308,4.0,1
+80,Napoli Pizza,934 E Passyunk Ave,Philadelphia,US,39.937084,-75.154864,25,6.433333333333334,2.5,1
+81,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5,1
+82,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5,1
+83,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5,1
+84,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5,1
+85,La Trattoria,844 2nd Ave,New York,US,40.751755,-73.970761,25,6.6400000000000015,2.5,1
+86,Proto's Pizza,345 S 8th St,Boise,US,43.6138,-116.2055,25,7.283333333333334,4.0,1
+87,Proto's Pizza,345 S 8th St,Boise,US,43.6138,-116.2055,25,7.283333333333334,4.0,1
+88,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+89,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+90,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+91,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+92,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+93,Buddy's Pizza,17125 Conant St,Hamtramck,US,42.419,-83.064,40,8.015384615384615,4.0,2
+94,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5,1
+95,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5,1
+96,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5,1
+97,Garlic New York Pizza Bar,629 2nd Ave,New York,US,40.745068,-73.975666,40,7.5636363636363635,3.5,1
+98,Rosa's Pizza,11025 Jones Bridge Rd,Alpharetta,US,34.0497,-84.2204,25,8.38888888888889,3.5,1
+99,Rosa's Pizza,11025 Jones Bridge Rd,Alpharetta,US,34.0497,-84.2204,25,8.38888888888889,3.5,1
+100,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5,1
+101,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5,1
+102,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5,1
+103,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5,1
+104,Ben's Pizzeria,8125 3rd Ave,Brooklyn,US,40.626485,-74.029692,25,5.95,3.5,1
+105,Sal's Pizzeria,161 N Main St,West Bend,US,43.42459003,-88.183097,25,7.32,3.5,1
+106,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0,1
+107,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0,1
+108,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0,1
+109,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0,1
+110,New York Sal's Pizza,696 10th Ave,New York,US,40.763737,-73.99217,25,6.859999999999999,3.0,1
+111,Sal's Pizzeria,3167 Bainbridge Ave,Bronx,US,40.87533,-73.879657,25,7.32,3.5,1
+112,Lou Malnati's Pizzeria,1120 N State St,Chicago,US,41.90263,-87.62868,40,7.7659090909090915,4.0,2
+113,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5,1
+114,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5,1
+115,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5,1
+116,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5,1
+117,Muzzarella Pizza,221 Avenue A,New York,US,40.730225,-73.980782,25,7.375,3.5,1
+118,Two Boots West Village,201 W 11th Street,New York,US,40.736529,-74.001229,25,6.6,3.5,1
+119,Ben's Pizzeria,123 Macdougal St,New York,US,40.730377,-74.00032,25,5.95,3.5,1
+120,Ben's Pizzeria,123 Macdougal St,New York,US,40.730377,-74.00032,25,5.95,3.5,1
+121,Village Pizza,65 8th Ave,New York,US,40.739292,-74.002769,25,7.5,4.0,1
+122,Buca di Beppo Italian Restaurant,4301 Alderwood Mall Blvd,Lynnwood,US,47.817693,-122.291033,40,4.1,3.5,2
+123,Grimaldi's,656 Avenue Of The Americas,New York,US,40.741064,-73.993944,40,8.421428571428573,3.5,2
+124,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+125,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+126,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+127,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+128,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+129,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+130,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+131,Famous Original Ray's Pizza,1827 2nd Ave,New York,US,40.783414,-73.948014,40,5.828571428571428,3.0,1
+132,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+133,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+134,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+135,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+136,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+137,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+138,Belmora Pizza & Restaurant,139 E 57th St,New York,US,40.760937,-73.969096,25,5.0600000000000005,2.5,1
+139,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+140,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+141,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+142,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+143,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+144,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+145,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+146,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+147,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+148,Famous Original Ray's Pizza,736 7th Ave,New York,US,40.760351,-73.983873,25,5.828571428571428,3.0,1
+149,John's of Bleecker Street,278 Bleecker St,New York,US,40.731674,-74.003381,40,8.883098591549297,4.0,2
+150,John's of Bleecker Street,278 Bleecker St,New York,US,40.731674,-74.003381,40,8.883098591549297,4.0,2
+151,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0,2
+152,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0,2
+153,Lil' Frankie's,19 1st Ave,New York,US,40.723668,-73.988546,40,7.853333333333333,4.0,2
+154,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+155,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+156,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+157,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+158,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+159,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+160,Da Vinci Pizza,44 Water St,New York,US,40.703556,-74.010011,25,4.15,3.0,1
+161,Mariella Pizza,965 Lexington Ave,New York,US,40.76915,-73.962822,25,6.883333333333333,3.5,1
+162,Mariella Pizza,965 Lexington Ave,New York,US,40.76915,-73.962822,25,6.883333333333333,3.5,1
+163,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+164,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+165,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+166,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+167,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+168,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+169,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+170,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+171,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+172,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+173,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+174,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+175,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+176,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+177,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+178,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+179,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+180,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+181,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+182,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+183,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+184,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+185,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+186,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+187,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+188,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+189,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+190,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+191,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+192,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+193,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+194,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+195,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+196,Royal Pizza,592 3rd Ave,New York,US,40.748789,-73.976255,25,6.855555555555558,3.5,1
+197,Chuck E. Cheese's,14637 Memorial Dr,Houston,US,29.770062,-95.607981,25,6.0,3.0,2
+198,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+199,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+200,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+201,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+202,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+203,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+204,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+205,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+206,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+207,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+208,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+209,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+210,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+211,Baker's Pizza,201 Avenue A,New York,US,40.729476,-73.981244,25,7.290909090909091,4.5,1
+212,Red's Savoy Pizza,1830 Webster St,Hudson,US,44.960196,-92.732063,25,6.9,4.0,2
+213,Red's Savoy Pizza,1830 Webster St,Hudson,US,44.960196,-92.732063,25,6.9,4.0,2
+214,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5,1
+215,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5,1
+216,Sofia Pizza Shoppe,989 1st Ave,New York,US,40.756676,-73.964348,25,7.718181818181819,4.5,1
+217,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+218,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+219,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+220,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+221,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+222,Mama's Pizza,2661 Shillington Rd,Reading,US,40.316742,-76.000534,40,8.25,4.5,1
+223,Buca di Beppo Italian Restaurant,11200 Lakeline Mall Dr,Cedar Park,US,30.47077,-97.806219,40,4.1,3.5,2
+224,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5,1
+225,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5,1
+226,Libretto's Pizzeria,15205 John J Delaney Dr Ste A,Charlotte,US,35.054154,-80.846687,40,6.390909090909092,3.5,1
+227,King's Pizza,5908 Edinger Ave,Huntington Beach,US,33.729939,-118.025043,25,5.84,4.0,1
+228,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5,2
+229,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5,2
+230,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5,2
+231,Giordano's,14325 S La Grange Rd,Orland Park,US,41.629927,-87.853794,25,8.080597014925372,3.5,2
+232,Giordano's,10410 W Cermak Rd,Westchester,US,41.848682,-87.882267,25,8.080597014925372,3.5,2
+233,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+234,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+235,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+236,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+237,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+238,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+239,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+240,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+241,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+242,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+243,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+244,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+245,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+246,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+247,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+248,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+249,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+250,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+251,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+252,Iggy's Pizzeria,173 1st Ave,New York,US,40.729121,-73.984227,25,5.82,3.5,1
+253,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+254,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+255,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+256,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+257,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+258,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+259,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+260,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+261,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+262,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+263,Gotham Pizza,852 8th Ave,New York,US,40.763039,-73.985387,25,6.9,3.5,1
+264,Joe's Pizza,3009a Middletown Rd,Bronx,US,40.843982,-73.830015,25,7.855813953488372,3.5,1
+265,Scarr's Pizza,22 Orchard St,New York,US,40.715343,-73.99139,25,7.915789473684211,4.0,1
+266,Frank Pepe Pizzeria Napoletana,1955 Central Park Ave,Yonkers,US,40.96538,-73.838835,40,8.722164948453608,4.0,2
+267,Frank Pepe Pizzeria Napoletana,1955 Central Park Ave,Yonkers,US,40.96538,-73.838835,40,8.722164948453608,4.0,2
+268,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5,2
+269,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5,2
+270,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5,2
+271,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5,2
+272,Home Slice Pizza,28 S Saint Clair St,Toledo,US,41.646752,-83.538866,40,6.95,4.5,2
+273,Sal's Pizzeria,8507 Jamaica Ave,Woodhaven,US,40.692526,-73.859024,25,7.32,3.5,1
+274,Pomodoro Pizza,14 Rector St,New York,US,40.707994,-74.013647,25,5.6,3.5,1
+275,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+276,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+277,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+278,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+279,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+280,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+281,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+282,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+283,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+284,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+285,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+286,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+287,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+288,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+289,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+290,Da Nonna Rosa,140 7th Ave,Brooklyn,US,40.672844,-73.976813,40,6.533333333333334,4.0,2
+291,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+292,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+293,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+294,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+295,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+296,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+297,Mellow Mushroom,2809 Preston Rd,Frisco,US,33.10043,-96.80569,40,6.9499999999999975,3.0,2
+298,Village Pizza,9469 W Higgins Rd,Des Plaines,US,41.992199,-87.863034,25,7.5,4.0,1
+299,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+300,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+301,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+302,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+303,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+304,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+305,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+306,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+307,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+308,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+309,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+310,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+311,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+312,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+313,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+314,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+315,Tony's Pizza,3680 Harlem Rd,Buffalo,US,42.943983,-78.784346,25,7.628571428571429,3.5,1
+316,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+317,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+318,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+319,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+320,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+321,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+322,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+323,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+324,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+325,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+326,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+327,Imperial Pizza,650 Wellwood Ave,Lindenhurst,US,40.702127,-73.384177,25,7.56,4.0,1
+328,Mellow Mushroom,320 Town Center Ave,Suwanee,US,34.055667,-84.063046,40,6.9499999999999975,3.0,2
+329,Pizza Joint,2900 N Mesa St,El Paso,US,31.779075,-106.504225,25,6.4,3.0,1
+330,Village Pizza,19 E Market St,Rhinebeck,US,41.927147,-73.912003,25,7.5,4.0,1
+331,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+332,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+333,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+334,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+335,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+336,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+337,Armand's Pizzeria,70 N Vail Ave,Arlington Heights,US,42.083411,-87.984153,40,7.709999999999999,3.5,2
+338,Steve's Pizza,12010 Biscayne Blvd,Miami,US,25.886964,-80.164475,25,3.7375,3.5,1
+339,Steve's Pizza,12010 Biscayne Blvd,Miami,US,25.886964,-80.164475,25,3.7375,3.5,1
+340,Rico's Pizza,92 W Market St,Corning,US,42.143876,-77.058249,25,3.1500000000000004,3.0,1
+341,Rico's Pizza,92 W Market St,Corning,US,42.143876,-77.058249,25,3.1500000000000004,3.0,1
+342,Rocco's Pizzeria,17098 Magnolia St,Fountain Valley,US,33.71446,-117.9718,25,7.2,4.0,1
+343,Rocco's Pizzeria,17098 Magnolia St,Fountain Valley,US,33.71446,-117.9718,25,7.2,4.0,1
+344,Giordano's,1388 US Rt 12,Fox Lake,US,42.36450043,-88.17008329,25,8.080597014925372,3.5,2
+345,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+346,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+347,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+348,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+349,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+350,Proto's Pizza,50 2nd Ave,New York,US,40.725307,-73.989947,25,7.283333333333334,4.0,1
+351,Louie's Pizza,333 N Tejon St,Colorado Springs,US,38.83927,-104.82276,25,8.225,4.5,2
+352,Louie's Pizza,333 N Tejon St,Colorado Springs,US,38.83927,-104.82276,25,8.225,4.5,2
+353,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5,1
+354,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5,1
+355,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5,1
+356,Sal's Pizzeria,1608 Pleasure House Rd,Virginia Beach,US,36.89563038,-76.14023106,25,7.32,3.5,1
+357,Patsy's Pizzeria,206 E 60th St,New York,US,40.761856,-73.965675,40,8.44864864864865,4.0,2
+358,Brick Oven Pizza 33,268 W 23rd St,New York,US,40.74525473,-73.99818524,25,7.736363636363636,3.0,1
+359,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5,1
+360,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5,1
+361,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5,1
+362,Tony's Pizza,514 W Lodi Ave,Lodi,US,38.12921632,-121.2795993,25,7.628571428571429,3.5,1
+363,Tony's Pizza,1605 Galleria Blvd,Charlotte,US,35.135172,-80.736568,25,7.628571428571429,3.5,1
+364,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+365,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+366,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+367,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+368,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+369,John & Tony's,1097 1st Ave,New York,US,40.765915,-73.95739,25,6.433333333333334,3.0,1
+370,Carmine's Pizzeria,2006 San Jacinto St,Dallas,US,32.786255,-96.79813,25,7.658333333333334,4.0,1
+371,Carmine's Pizzeria,2006 San Jacinto St,Dallas,US,32.786255,-96.79813,25,7.658333333333334,4.0,1
+372,Mama's Pizza,5950 N Point Pkwy,Alpharetta,US,34.0495304,-84.28324699,40,8.25,4.5,1
+373,Pequod's Pizzeria,8520 Fernald Ave,Morton Grove,US,42.03621622,-87.782626,40,7.995522388059702,4.0,2
+374,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0,1
+375,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0,1
+376,Village Pizza,3233 Powelton Ave,Philadelphia,US,39.960509,-75.18915,25,7.5,4.0,1
+377,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5,1
+378,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5,1
+379,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5,1
+380,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5,1
+381,Sal's Pizzeria,308 Main St,Dallas,US,33.92274,-84.840521,40,7.32,3.5,1
+382,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+383,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+384,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+385,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+386,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+387,Vito's Pizza,3130 W Central Ave,Toledo,US,41.6777,-83.62032831,25,7.895652173913042,3.5,2
+388,King's Pizza,110 W 145th St,New York,US,40.82048,-73.93656,25,5.84,4.0,1
+389,King's Pizza,110 W 145th St,New York,US,40.82048,-73.93656,25,5.84,4.0,1
+390,Buca di Beppo Italian Restaurant,16091 N Arrowhead Fountains Ctr Dr,Peoria,US,33.632437,-112.236786,55,4.1,3.5,2
+391,Joey Pepperoni's Pizza,493 2nd Ave,New York,US,40.74099,-73.97904,25,5.4,4.0,1
+392,Giordano's,700 E Grand Ave,Chicago,US,41.89175,-87.60965,25,8.080597014925372,3.5,2
+393,Giordano's,700 E Grand Ave,Chicago,US,41.89175,-87.60965,25,8.080597014925372,3.5,2
+394,La Mia Pizza,1488 1st Ave,New York,US,40.77126,-73.953125,25,7.07,3.0,1
